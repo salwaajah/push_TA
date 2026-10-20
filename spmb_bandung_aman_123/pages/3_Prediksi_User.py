@@ -269,12 +269,10 @@ if submitted:
                 f"**{zona_user}** sesuai Kecamatan pilihanmu."
             )
     else:
+        # Alamat tidak ketemu di peta -> pakai titik tengah kecamatan sebagai
+        # perkiraan. Pesan peringatan sengaja disembunyikan dari tampilan.
         home_lat, home_lon = KOORDINAT_KECAMATAN.get(
             kecamatan_input, (-6.9175, 107.6191)
-        )
-        st.warning(
-            "⚠️ Alamat lengkap tidak ditemukan di peta, jarak dihitung dari "
-            f"titik tengah Kecamatan **{kecamatan_input}** (perkiraan)."
         )
 
     with st.spinner("🤖 Menghitung prediksi Machine Learning..."):
