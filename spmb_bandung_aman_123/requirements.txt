@@ -1,0 +1,11 @@
+streamlit==1.38.0
+scikit-learn==1.4.2
+scikit-fuzzy==0.4.2
+folium==0.16.0
+streamlit-folium==0.20.0
+geopy==2.4.1
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+openpyxl==3.1.2
+joblib==1.4.2

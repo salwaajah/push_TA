@@ -1,0 +1,18 @@
+{
+  "2022": {
+    "file": "dataset_2022.xlsx",
+    "sheet_per_sekolah": false
+  },
+  "2024": {
+    "file": "dataset_2024.xlsx",
+    "sheet_per_sekolah": false
+  },
+  "2025": {
+    "file": "dataset_2025.xlsx",
+    "sheet_per_sekolah": true
+  },
+  "2026": {
+    "file": "dataset_2026.xlsx",
+    "sheet_per_sekolah": true
+  }
+}

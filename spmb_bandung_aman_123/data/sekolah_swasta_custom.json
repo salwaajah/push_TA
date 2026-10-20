@@ -1,0 +1,170 @@
+[
+  {
+    "nama": "SMP Advent Bandung",
+    "zona": "A",
+    "lat": -6.892,
+    "lon": 107.613,
+    "alamat": "Jl. Cihampelas No.161, Cipaganti, Coblong",
+    "id": 1
+  },
+  {
+    "nama": "SMP Santa Angela",
+    "zona": "A",
+    "lat": -6.906,
+    "lon": 107.608,
+    "alamat": "Jl. Merdeka No.24, Babakan Ciamis, Sumur Bandung",
+    "id": 2
+  },
+  {
+    "nama": "SMP Taruna Bakti",
+    "zona": "A",
+    "lat": -6.898,
+    "lon": 107.631,
+    "alamat": "Jl. LL. RE. Martadinata No.52, Cihaurgeulis",
+    "id": 3
+  },
+  {
+    "nama": "SMP Labschool UPI",
+    "zona": "A",
+    "lat": -6.861,
+    "lon": 107.619,
+    "alamat": "Jl. DR. Setiabudhi No.229, Isola, Sukasari",
+    "id": 4
+  },
+  {
+    "nama": "SMP Bina Bakti 1",
+    "zona": "A",
+    "lat": -6.902,
+    "lon": 107.62,
+    "alamat": "Jl. Citarum No.15, Citarum, Bandung Wetan",
+    "id": 5
+  },
+  {
+    "nama": "SMP BPK PENABUR Bandung",
+    "zona": "B",
+    "lat": -6.919,
+    "lon": 107.665,
+    "alamat": "Jl. Rajawali Barat No.6, Campaka, Andir",
+    "id": 6
+  },
+  {
+    "nama": "SMP Islam Al-Azhar 51",
+    "zona": "B",
+    "lat": -6.925,
+    "lon": 107.682,
+    "alamat": "Jl. Arcamanik No.1, Antapani, Bandung",
+    "id": 7
+  },
+  {
+    "nama": "SMP Plus Al-Ghifari",
+    "zona": "B",
+    "lat": -6.945,
+    "lon": 107.691,
+    "alamat": "Jl. Cisaranten Kulon No.140, Arcamanik",
+    "id": 8
+  },
+  {
+    "nama": "SMP Salman Al Farisi",
+    "zona": "B",
+    "lat": -6.938,
+    "lon": 107.673,
+    "alamat": "Jl. Tubagus Ismail Dalam No.19, Sekeloa",
+    "id": 9
+  },
+  {
+    "nama": "SMP Pasundan 1 Bandung",
+    "zona": "B",
+    "lat": -6.913,
+    "lon": 107.658,
+    "alamat": "Jl. Bhayangkara No.3, Kacapiring, Batununggal",
+    "id": 10
+  },
+  {
+    "nama": "SMP Kartika XIX-2",
+    "zona": "C",
+    "lat": -6.936,
+    "lon": 107.631,
+    "alamat": "Jl. Suryalaya No.7, Burangrang, Lengkong",
+    "id": 11
+  },
+  {
+    "nama": "SMP Pasundan 3 Bandung",
+    "zona": "C",
+    "lat": -6.942,
+    "lon": 107.625,
+    "alamat": "Jl. Astana Anyar No.55, Karasak, Astana Anyar",
+    "id": 12
+  },
+  {
+    "nama": "SMP YAS Bandung",
+    "zona": "C",
+    "lat": -6.947,
+    "lon": 107.635,
+    "alamat": "Jl. Pelajar Pejuang 45 No.1, Turangga, Lengkong",
+    "id": 13
+  },
+  {
+    "nama": "SMP PGII 2 Bandung",
+    "zona": "C",
+    "lat": -6.939,
+    "lon": 107.641,
+    "alamat": "Jl. Pahlawan No.10, Karang Anyar, Astana Anyar",
+    "id": 14
+  },
+  {
+    "nama": "SMP Sandhy Putra Bandung",
+    "zona": "C",
+    "lat": -6.951,
+    "lon": 107.628,
+    "alamat": "Jl. Sukamukti No.1, Batununggal, Bandung Kidul",
+    "id": 15
+  },
+  {
+    "nama": "SMP Pasundan 4 Bandung",
+    "zona": "D",
+    "lat": -6.922,
+    "lon": 107.588,
+    "alamat": "Jl. Kebon Jati No.31, Kebon Jeruk, Andir",
+    "id": 16
+  },
+  {
+    "nama": "SMP Muhammadiyah 2 Bandung",
+    "zona": "D",
+    "lat": -6.931,
+    "lon": 107.581,
+    "alamat": "Jl. Warung Muncang No.53, Bandung Kulon",
+    "id": 17
+  },
+  {
+    "nama": "SMP Islam Al-Ihsan",
+    "zona": "D",
+    "lat": -6.948,
+    "lon": 107.575,
+    "alamat": "Jl. Kopo No.215, Babakan Ciparay",
+    "id": 18
+  },
+  {
+    "nama": "SMP IT Ummul Quro",
+    "zona": "D",
+    "lat": -6.938,
+    "lon": 107.569,
+    "alamat": "Jl. Cibodas No.5, Cibodas, Andir",
+    "id": 19
+  },
+  {
+    "nama": "SMP Bumi Siliwangi",
+    "zona": "D",
+    "lat": -6.915,
+    "lon": 107.577,
+    "alamat": "Jl. Andir No.7, Garuda, Andir",
+    "id": 20
+  },
+  {
+    "nama": "SMP ULBI BANDUNG",
+    "zona": "A",
+    "lat": -6.8611533,
+    "lon": 107.591677,
+    "alamat": "Jl. Sariasih No.54, Sarijadi, Kec. Sukasari, Kota Bandung, Jawa Barat 40151",
+    "id": 21
+  }
+]
